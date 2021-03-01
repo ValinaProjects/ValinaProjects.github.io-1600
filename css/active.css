@@ -31,7 +31,8 @@ text-decoration:none;
 table  {
 border: 5px solid black;
 background: PaleGoldenRod;
-color: black;
+color: black;
+
 }
 
 th,td{
@@ -51,10 +52,12 @@ font-size: 16pt;
 border: 1px solid DarkSeaGreen;
 color: black;
 }
-
+
+
 p{
 color: black ;
-font-size: 16pt;
+font-size: 20pt;
+font-family:"Times New Roman";
 }
 
 .center {
