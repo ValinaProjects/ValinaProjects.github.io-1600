@@ -1,0 +1,68 @@
+body {
+background: white;
+color: black;
+}
+
+h1,h2,h3{background: Maroon;
+color: Gold;
+}
+
+hr.new {
+  border: 5px solid Maroon;
+  border-radius: 5px;
+}
+hr.new2 {
+  border: 2px solid gold;
+}
+
+a:link,a:visited, a:active {
+color: green;
+font-size: 16pt;
+}
+
+a:hover {
+font-size:150%;
+background: green;
+font-family:monospace;
+color: yellow;
+text-decoration:none;
+}
+
+table  {
+border: 5px solid black;
+background: PaleGoldenRod;
+color: black;
+}
+
+th,td{
+border: 1px solid DarkSeaGreen;
+background: PaleGoldenRod;
+color: black;
+}
+
+ol {
+border: 5px solid black;
+background: PaleGoldenRod;
+}
+
+
+li {
+font-size: 16pt;
+border: 1px solid DarkSeaGreen;
+color: black;
+}
+
+p{
+color: black ;
+font-size: 16pt;
+}
+
+.center {
+text-align: center;
+border: 3px solid black;
+background: PaleGoldenRod;
+}
+
+a.space {
+  padding: 0px 10px;
+}
